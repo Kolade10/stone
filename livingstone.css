@@ -1128,16 +1128,6 @@ a{
         height: 20px;
         width: 1px;
     }
-    .respfootimg{
-        width: 550px;
-        height: 950px;
-        background-image: url(footericon.svg);
-        background-size: cover;
-        background-repeat: no-repeat;
-        position: relative;
-        left: 307px;
-        top: -706px;
-    }
 
 }
     
