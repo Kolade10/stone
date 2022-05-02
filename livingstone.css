@@ -320,6 +320,7 @@ a{
     line-height: 1;
     color: #99182A;
     text-align: center;
+        width:100%;
     }
     .ourscroll{
         display: none;
