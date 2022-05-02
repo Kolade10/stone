@@ -848,7 +848,7 @@ a{
     line-height: 26px;
     word-spacing: 5px;
 }
-.achiresscroll{
+.resachiscroll{
     display: none;
 }
 @media only screen and (max-width:900px){
