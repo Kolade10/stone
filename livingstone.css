@@ -320,14 +320,14 @@ a{
     line-height: 1;
     color: #99182A;
     text-align: center;
-        width:100%;
+        
     }
     .ourscroll{
         display: none;
     }
     .resourscroll{
         display: flex;
-        width: 45%;
+        width: 40%;
         margin: auto;
         height: 50px;
     }
